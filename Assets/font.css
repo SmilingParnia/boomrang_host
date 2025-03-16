@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Kalameh';
+    src: url('../Font/WebFonts/_Woff2/KalamehWeb-Regular.woff2') format('woff2'),
+         url('../Font/WebFonts/_Woff2/KalamehWeb-Regular.woff') format('woff');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kalameh';
+    src: url('../Font/WebFonts/_Woff2/KalamehWeb-SemiBold.woff2') format('woff2'),
+         url('../Font/WebFonts/_Woff2/KalamehWeb-SemiBold.woff') format('woff');
+    font-weight: 600; /* SemiBold */
+    font-style: normal;
+}
