@@ -110,4 +110,3 @@ searchToggle = document.querySelector(".searchToggle")
           }
       });
   }
-  
