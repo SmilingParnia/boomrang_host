@@ -1440,8 +1440,9 @@ svg{
   border: 0.5px solid var(--borderf-color);
   float: left;
   border-radius: 10px;
-  position: relative;
-  top: -120px;
+  position: sticky;
+  top: 120px;
+  margin-bottom: 30px;
 }
 .body-offer{
   position: relative;
